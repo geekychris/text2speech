@@ -1,0 +1,4 @@
+# TTS Client Dependencies
+requests>=2.28.0,<3.0.0  # For HTTP requests to TTS service
+pygame>=2.1.2,<3.0.0     # For audio playback functionality
+

@@ -1,0 +1,8 @@
+fastapi>=0.95.0
+uvicorn>=0.21.0
+pydantic>=1.10.7
+coqui-tts>=0.17.0
+pydub>=0.25.1
+numpy>=1.24.0
+python-multipart>=0.0.6
+
